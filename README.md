@@ -97,8 +97,11 @@ screenshots
 Then place your images:
 
 ```bash
-C:\Users\2006n\OneDrive\Pictures\Screenshots\Screenshot 2026-05-08 161422.png
-C:\Users\2006n\OneDrive\Pictures\Screenshots\Screenshot 2026-05-08 155822.png
+<img width="441" height="693" alt="Screenshot 2026-05-08 161422" src="https://github.com/user-attachments/assets/c0b7ae0a-868b-4fb9-8625-e16c3a87811e" />
+<img width="441" height="702" alt="Screenshot 2026-05-08 155822" src="https://github.com/user-attachments/assets/ba74763f-55b0-4e92-8e2a-f6c26feace8d" />
+<img width="438" height="700" alt="Screenshot 2026-05-08 155847" src="https://github.com/user-attachments/assets/45e9dff1-e9a2-40ae-a649-f26edd796289" />
+
+
 ```
 
 ---
