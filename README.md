@@ -45,13 +45,9 @@ Weather-App/
 
 # 📸 Application Screenshots
 
-## Weather Result
+## Home Screen
 
-![Home Screen](Screenshot 2026-05-08 155822.png)
-
-
-
-![Weather Result]()
+![Home Screen](screenshots/home.png)
 
 ---
 # 🚀 Installation
