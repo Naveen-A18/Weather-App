@@ -43,6 +43,17 @@ Weather-App/
 
 ---
 
+# 📸 Application Screenshots
+
+## Weather Result
+
+![Home Screen](Screenshot 2026-05-08 155822.png)
+
+
+
+![Weather Result]()
+
+---
 # 🚀 Installation
 
 ## 1️⃣ Clone Repository
