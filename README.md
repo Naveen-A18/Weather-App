@@ -97,8 +97,8 @@ screenshots
 Then place your images:
 
 ```bash
-screenshots/home.png
-screenshots/result.png
+C:\Users\2006n\OneDrive\Pictures\Screenshots\Screenshot 2026-05-08 161422.png
+C:\Users\2006n\OneDrive\Pictures\Screenshots\Screenshot 2026-05-08 155822.png
 ```
 
 ---
