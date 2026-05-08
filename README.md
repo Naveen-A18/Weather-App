@@ -49,6 +49,9 @@ Weather-App/
 
 ![Home Screen](screenshots/home.png)
 
+## Result screen
+
+![Home Screen](screenshots/result.png)
 ---
 # 🚀 Installation
 
